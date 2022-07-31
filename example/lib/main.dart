@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
                 builder: (context) => const QrExample(),
               ));
             },
-            child: const Text('qrView'),
+            child: const Text('Scan Qr Code'),
           ),
         ),
       ),

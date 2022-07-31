@@ -7,8 +7,8 @@ import 'dart:js_util';
 import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_code_scanner/qr_code_scanner.dart';
-import 'package:flutter_code_scanner/src/qr_code_scanner.dart';
+import 'package:flutter_code_scanner/flutter_code_scanner.dart';
+import 'package:flutter_code_scanner/src/flutter_code_scanner.dart';
 
 import 'jsqr.dart';
 import 'media.dart';
