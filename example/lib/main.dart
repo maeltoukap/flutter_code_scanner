@@ -1,7 +1,9 @@
+// ignore_for_file: implementation_imports
+
 import 'dart:developer';
 import 'package:flutter/material.dart';
-import 'package:flutter_code_scanner/src/qr_code_scanner.dart';
-import 'package:flutter_code_scanner/src/qr_scanner_overlay_shape.dart';
+import 'package:flutter_code_scanner/src/flutter_code_scanner.dart';
+import 'package:flutter_code_scanner/src/flutter_code_scanner_overlay_shape.dart';
 import 'package:flutter_code_scanner/src/types/barcode.dart';
 
 void main() => runApp(const MaterialApp(home: Home()));

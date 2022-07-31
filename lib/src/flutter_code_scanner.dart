@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import 'lifecycle_event_handler.dart';
-import 'qr_scanner_overlay_shape.dart';
+import 'flutter_code_scanner_overlay_shape.dart';
 import 'types/barcode.dart';
 import 'types/barcode_format.dart';
 import 'types/camera.dart';
